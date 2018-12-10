@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name": "Akash Kumar",
+        "age": 24,
+        "company": "Own"
+        
+    },
+    {
+        "id" : 2,
+        "name": "Rahul Kumar",
+        "age": 25,
+        "company": "Own1"
+        
+    },
+    {
+        "id" : 3,
+        "name": "Anshit Kumar",
+        "age": 10,
+        "company": "Own2"
+        
+    },
+
+    {
+        "id" : 4,
+        "name": "Deepak Kumar",
+        "age": 23,
+        "company": "Own3"
+        
+    }
+
+]
+
